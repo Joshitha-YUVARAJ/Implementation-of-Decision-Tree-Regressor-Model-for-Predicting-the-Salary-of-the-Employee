@@ -63,11 +63,13 @@ dt.predict([[5,6]])
 # Data Head after applying LabelEncoder():
 ![image](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/349bb6b8-b6e0-4424-bc71-37f7d7cff963)
 # MSE:
-![image](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/fa140f38-ca75-4399-a4d3-1468cd09d6a9)
+![Screenshot 2024-04-05 094729](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/c5cce21f-5d44-4385-80a5-b00fab1ba46a)
+
 # R2:
-![image](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/79cde4e5-04ec-4c58-9e90-cabda2fb5acb)
+![Screenshot 2024-04-05 094738](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/4116537a-97e9-48cf-a722-3f63b7e784a3)
+
 # DATA PREDICTION:
-![image](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/9fdb2ae9-3e9b-43cc-b1bb-7d4f0d49d265)
+![Screenshot 2024-04-05 094756](https://github.com/Joshitha-YUVARAJ/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145742770/5b848d52-9690-4f39-927b-4ac1122dc7c9)
 
 
 
